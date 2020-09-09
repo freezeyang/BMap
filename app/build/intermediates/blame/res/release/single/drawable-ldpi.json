@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/res/merged/release/drawable-ldpi/gear.png",
+        "source": "/home/yin/StudioProjects/SensorsDataCollector/app/src/main/res/drawable-ldpi/gear.png"
+    },
+    {
+        "merged": "/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/res/merged/release/drawable-ldpi/notification.png",
+        "source": "/home/yin/StudioProjects/SensorsDataCollector/app/src/main/res/drawable-ldpi/notification.png"
+    },
+    {
+        "merged": "/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/res/merged/release/drawable-ldpi/ic_launcher.png",
+        "source": "/home/yin/StudioProjects/SensorsDataCollector/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/res/merged/release/drawable-ldpi/setting.png",
+        "source": "/home/yin/StudioProjects/SensorsDataCollector/app/src/main/res/drawable-ldpi/setting.png"
+    }
+]

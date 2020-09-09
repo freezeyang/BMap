@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/res/merged/debug/drawable-mdpi/gear.png",
+        "source": "/home/yin/StudioProjects/SensorsDataCollector/app/src/main/res/drawable-mdpi/gear.png"
+    },
+    {
+        "merged": "/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/res/merged/debug/drawable-mdpi/setting.png",
+        "source": "/home/yin/StudioProjects/SensorsDataCollector/app/src/main/res/drawable-mdpi/setting.png"
+    },
+    {
+        "merged": "/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/home/yin/StudioProjects/SensorsDataCollector/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_search.png",
+        "source": "/home/yin/StudioProjects/SensorsDataCollector/app/src/main/res/drawable-mdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/res/merged/debug/drawable-mdpi/notification.png",
+        "source": "/home/yin/StudioProjects/SensorsDataCollector/app/src/main/res/drawable-mdpi/notification.png"
+    }
+]

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="output"><source path="/home/yin/.android/build-cache/b4e450d95e09a2c905d6161972a22f63d90154ea/output/assets"/></dataSet><dataSet config="main"><source path="/home/yin/StudioProjects/SensorsDataCollector/app/src/main/assets"/><source path="/home/yin/StudioProjects/SensorsDataCollector/app/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/home/yin/StudioProjects/SensorsDataCollector/app/src/release/assets"/></dataSet></merger>

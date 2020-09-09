@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="24c35cf5ca26f09828bd9be3035d92e3c7e7ff76">
+        <dex dex="/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_20fc802203e0f231b24607f7c00a906dbbc78426/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yin/StudioProjects/SensorsDataCollector/app/libs/opencsv-3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="100f1f66bcade989c73eabd3d56ac39df47317df">
+        <dex dex="/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/pre-dexed/debug/opencsv-3.1_e4fb890ea9205309868e014793ec970b9d5de17b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yin/StudioProjects/SensorsDataCollector/app/libs/opencsv-3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="100f1f66bcade989c73eabd3d56ac39df47317df">
+        <dex dex="/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/transforms/dex/debug/folders/1000/2/opencsv-3.1_e4fb890ea9205309868e014793ec970b9d5de17b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yin/.android/build-cache/b4e450d95e09a2c905d6161972a22f63d90154ea/output/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_cfce6c07aee507221e7cb75fef814392688c65cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yin/.android/build-cache/e6e9fcf96ee0dd5aa6e093a42ca10782c11da855/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/pre-dexed/debug/classes_6cb1953147c2acba3968c2a0338cb2172d406eff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yin/Desktop/adt-bundle-linux-x86_64-20131030/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_52cbe6e0e11f3709d4977ad8eb651f5052045448.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yin/.android/build-cache/35148fab4b2a2ac9e87d013e59ab059ead5677b8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/pre-dexed/debug/classes_d8ce2cfd751ca57a70c88c660240ba6a9da515b7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_97e6d725d32253f48756c9a0f2fab252f6ae6cbc/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yin/.android/build-cache/fbc4cc637c9f6434b5f7e7db6db84195bab83939/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/pre-dexed/debug/classes_cd9570b005f444ff87998fbbfabe1cef0f5bcd9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yin/.android/build-cache/f0dde8569b9db848cf0e9c0430648b589fe13b3a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/pre-dexed/debug/classes_a340f85226a91dae92c527658ed38bca1e49b108.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yin/.android/build-cache/1783cdb57a8f9a4c405136359f17fdb002e09c06/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/pre-dexed/debug/classes_ee24735324944f229f645772eaaab42931416456.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yin/.android/build-cache/fb1b2339e75b4c991f94bc69da4cfe79c9c76a1c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/pre-dexed/debug/classes_dd95167c9673328e02e4036f06236a18bb031099.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yin/.android/build-cache/0301fb8c2ff05082d31e4602a34a8564200e138f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/pre-dexed/debug/classes_a8b161ba0c35c82a5de510dfb26bda744a64348d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yin/.android/build-cache/40af511b331902989c9b14172277d1d370b4035e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/pre-dexed/debug/classes_3be86f22207b539b07222fd61cf9b81b8d24dd8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yin/.android/build-cache/b4e450d95e09a2c905d6161972a22f63d90154ea/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/pre-dexed/debug/classes_8db2421b33ec6c3e3e174a7f9a1052591c036baa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yin/.android/build-cache/2e0f43db1bb6db52d884100bfbd9c062b4295b12/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/pre-dexed/debug/classes_5ec12bd46cfb785e30ee557a91f4563db7a18631.jar" />
+    </item>
+
+</items>
