@@ -1,4 +1,4 @@
-#Mon Sep 30 11:24:49 EDT 2019
+#Sun Jun 20 17:11:41 CDT 2021
 file.2=/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ee24735324944f229f645772eaaab42931416456/classes.dex
 base.2=/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ee24735324944f229f645772eaaab42931416456
 file.1=/home/yin/StudioProjects/SensorsDataCollector/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dd95167c9673328e02e4036f06236a18bb031099/classes.dex

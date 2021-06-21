@@ -14,6 +14,7 @@ import java.util.Scanner;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.iid.FirebaseInstanceId;
+import com.google.firebase.messaging.FirebaseMessaging;
 import com.opencsv.CSVWriter;
 
 import ia.information.collector.BehaviorList;
@@ -25,6 +26,7 @@ import android.app.FragmentManager;
 
 import notifications.Constants;
 import notifications.MyNotificationManager;
+import android.util.Log;
 
 //import android.app.NotificationChannel;
 import android.app.NotificationManager;
@@ -186,8 +188,8 @@ public class MainActivity extends Activity implements OnGestureListener,
 
         //MyNotificationManager.getInstance(this).displayNotification("Greetings", "Hello how are you?");
         //check token
-        //String token = FirebaseInstanceId.getInstance().getToken();
-
+        String token = FirebaseInstanceId.getInstance().getToken();
+        Log.d("Token", token);
         //setting
         /*preferences_main = this.getSharedPreferences("preferences_main", 0);
         preferences = this.getSharedPreferences("preferences", 0);*/
